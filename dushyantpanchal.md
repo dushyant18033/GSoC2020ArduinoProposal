@@ -46,7 +46,7 @@ I will incorporate interfacing with the board, some popular sensors and actuator
 * _Building an Obstacle Avoiding Robot using IR proximity sensors/Ultrasonic distance sensor+Servo motor and DC motors._
 
 
-### **Phase 2: The 3 important communication protocols - UART,I2C,SPI**
+### **Phase 2: Three Important Communication Protocols - UART,I2C,SPI**
 
 * _Interfacing with the HC05 Bluetooth module through the UART communication protocol._
 * _Building a Bluetooth Based Remote Control Robot using HC05 and DC motors._
@@ -54,13 +54,16 @@ I will incorporate interfacing with the board, some popular sensors and actuator
 * _Building an AirMouse using MPU6050 and Bluetooth._
 * _Interfacing with MFRC522 RFID reader through the SPI communication protocol._
 * _Building a simple RFID authenticator using the MFRC522 RFID reader._
+* Also Exploring Some Additional Features
+  * _Working with the Portenta built-in Bluetooth peripheral module._
+  * _Working with the Portenta built-in WiFi peripheral module._
 
 
-### **Final Week: Exploring Some Additional Features**
+### **Final Week: Finishing and Submission**
 
-* _Working with the Portenta built-in Bluetooth peripheral module._
-* _Working with the Portenta built-in WiFi peripheral module._
 * _Implementing a Proportional-Integral-Derivative Algorithm on the Portenta._
+* _Cover up any backlog or incomplete work._
+* _Submit the work._
 
 
 
