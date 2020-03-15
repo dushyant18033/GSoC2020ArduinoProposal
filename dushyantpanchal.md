@@ -1,18 +1,12 @@
 #  GSoC2020 @Arduino - Writing MicroPython Examples and Tools for Portenta 
 
+
+
 ## Abstract
 
 _I plan to work on writing MicroPython examples for the Arduino Portenta board and also document working hardware prototypes on the project hub with the help of the board sent by the organization.
 I will incorporate interfacing with the board, some popular sensors and actuators, followed by some building interactive project prototypes using these. I will be documenting all of my goals on the project hub._
 
-
-## Technical Details
-
-_Long description of the project. **Must** include all technical details of the
-projects, like libraries involved._
-
-_Here you can show relevant pieces of code that you want to change. You can
-link to literature you used during the research._
 
 
 ## Schedule of Deliverables
@@ -66,15 +60,19 @@ link to literature you used during the research._
 * _Implementing a Proportional-Integral-Derivative Algorithm on the Portenta._
 
 
+
 ## Development Experience
 
 _I have more than 3 years of experience working with Arduino UNO and have worked on many interactive projects including an Arduino-based firmware for quadcopter flight control (still under development), a self-balancing bot, a HelpCap (a cap-like device that can emulate mouse events on specific head movements connected to the PC via BlueTooth) which was also selected among the best projects in my college course project showcase. I have also worked with nodeMCU (both via MicroPython and Arduino IDE). I also have good enough experience with Python Programming. Following is the link to my github profile where I've put various projects that I have developed during my college courses. I assure you that this is going to be more of a passion for me than work since I started working with Arduino as a hobby during my class 10th days._
 [MyGitHub](http://github.com/dushyant18033/)
 
 
+
 ## Why this project?
 
 _I started programming and tinkering with Arduino during my school days when one of my friends gifted me an Arduino Uno on my 16th birthday. It has been 4 years and I still love tinkering around with projects involving arduino and similar microcontroller and simple electronics. While I was searching for an organisation to apply to for GSoC2020, and I got a glimpse on Arduino, I had my final decision that I will only apply for this organisation and none other since I'll get to work on and learn from something that is my hobby. And nothing is more interesting to do than your hobby. Thus it is my complete assurance to be fully committed towards this project._
+
+
 
 ## Do you have any other commitments during the GSoC period?
 
