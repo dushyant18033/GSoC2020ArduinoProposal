@@ -2,8 +2,8 @@
 
 ## Abstract
 
-I plan to work on writing MicroPython examples for the Arduino Portenta board and also document working hardware prototypes on the project hub with the help of the board sent by the organization.
-I will incorporate interfacing with the board, some popular sensors and actuators, followed by some building interactive project prototypes using these. I will be documenting all of my goals on the project hub.
+_I plan to work on writing MicroPython examples for the Arduino Portenta board and also document working hardware prototypes on the project hub with the help of the board sent by the organization.
+I will incorporate interfacing with the board, some popular sensors and actuators, followed by some building interactive project prototypes using these. I will be documenting all of my goals on the project hub._
 
 
 ## Technical Details
@@ -16,15 +16,11 @@ link to literature you used during the research._
 
 ## Schedule of Deliverables
 
-_Here should come a list of your milestones. This list is a start based on the
-difference phases of GSoC. Use it as a start. You can/should add more details
-for each phase by breaking it down into weeks or set specific targets for each
-phase. Each target should be split into sub task with a time estimate, [work
-breakdown structures](https://en.wikipedia.org/wiki/Work_breakdown_structure) are helpful here._
-
 ### **Community Bonding Period**
 
-_What will you do during the community bonding period?_
+1. _Getting started with Arduino Portenta Board and begin with exploring different features of the board. Get familiar with the new board and the community that I will be working with the whole summer._
+1. _Installing MicroPython on the board and setting up the MicroPython REPL prompt for several examples and projects to be developed further._
+
 
 ### **Phase 1**
 
