@@ -39,12 +39,12 @@ I will incorporate interfacing with the board, some popular sensors and actuator
   * DC motor via L293D h-bridge motor driver IC with PWM based speed control.
   * Stepper motor via ULN2003 stepper motor driver.
   * BLDC motor PWM speed control via an ESC.
+* _Building a Line Follower Robot using IR proximity sensors and DC motors._
+* _Building an Obstacle Avoiding Robot using IR proximity sensors/Ultrasonic distance sensor+Servo motor and DC motors._
 
 
 ### **Phase 2: The 3 important communication protocols - UART,I2C,SPI**
 
-* _Building a Line Follower Robot using IR proximity sensors and DC motors._
-* _Building an Obstacle Avoiding Robot using IR proximity sensors/Ultrasonic distance sensor+Servo motor and DC motors._
 * _Interfacing with the HC05 Bluetooth module through the UART communication protocol._
 * _Building a Bluetooth Based Remote Control Robot using HC05 and DC motors._
 * _Interfacing with Accelerometer+Gyroscope sensor MPU6050 through the I2C communication protocol._
