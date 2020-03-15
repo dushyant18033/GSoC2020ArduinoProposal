@@ -78,4 +78,4 @@ _I started programming and tinkering with Arduino during my school days when one
 
 ## Do you have any other commitments during the GSoC period?
 
-_I will be having end semester examinations sometime around in April-May for a week or two. But I commit to cover up the back log that might happen during this time by working for longer hours after my examination is over. Rest of the time I will be fully committed._
+_I will be having end semester examinations for a week or two during the community bonding period. But I commit to cover up the back log that might happen during this time by working for longer hours after my examination is over. Rest of the time I will be fully committed._
