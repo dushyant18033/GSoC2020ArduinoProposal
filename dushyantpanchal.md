@@ -1,6 +1,9 @@
 #  GSoC2020 @Arduino - Writing MicroPython Examples and Tools for Portenta 
-
-
+   * _**Name:** Dushyant Panchal_
+   * _2nd Year, B.Tech Student_
+   * _Computer Science & Engineering_
+   * _Indraprastha Institute of Information Technology, Delhi, India_
+   * _**Email:** dushyant18033@iiitd.ac.in_
 
 ## Abstract
 
@@ -11,7 +14,7 @@ I will incorporate interfacing with the board, some popular sensors and actuator
 
 ## Schedule of Deliverables
 
-### **Community Bonding Period**
+### **Community Bonding Period: Getting Started with Portenta and the Community**
 
 * _Getting started with Arduino Portenta Board and begin with exploring different features of the board. Get familiar with the new board and the community that I will be working with the whole summer._
 * _Installing MicroPython on the board and setting up the MicroPython REPL prompt for several examples and projects to be developed further._
@@ -53,7 +56,7 @@ I will incorporate interfacing with the board, some popular sensors and actuator
 * _Building a simple RFID authenticator using the MFRC522 RFID reader._
 
 
-### **Final Week**
+### **Final Week: Exploring Some Additional Features**
 
 * _Working with the Portenta built-in Bluetooth peripheral module._
 * _Working with the Portenta built-in WiFi peripheral module._
