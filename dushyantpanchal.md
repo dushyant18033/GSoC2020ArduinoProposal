@@ -48,7 +48,7 @@ I will incorporate interfacing with the board, some popular sensors and actuator
   * BLDC motor PWM speed control via an ESC.
   
 
-### **Phase 2: Three Important Communication Protocols - UART,I2C,SPI**
+### **Phase 2: Three Important Communication Protocols - UART, I2C, SPI**
 
 * _Observe The Performance of some simple ML algorithms on Portenta.(**Jun 29 - Jul 3**)_
   * _Implement a Simple Linear Regression on the Portenta board._
@@ -62,7 +62,7 @@ I will incorporate interfacing with the board, some popular sensors and actuator
   * A simple example for demonstration and explaination purpose only.
 
 * _Interfacing with the HC05 Bluetooth module and working with the UART communication protocols.  (**Jul 13-14**)_
-* _Building a Bluetooth Based Remote Control Robot using HC05 and DC motors. (**Jun 15-19**)_
+* _Building a Bluetooth Based Remote Control Robot using HC05 and DC motors. (**Jul 15-19**)_
 
 * _Interfacing with Accelerometer+Gyroscope sensor MPU6050 and working with the I2C communication protocols. (**Jul 20-21**)_
 * _Building an AirMouse using MPU6050 and Bluetooth. (**Jul 22-26**)_
@@ -101,4 +101,4 @@ _I started programming and tinkering with Arduino during my school days when one
 
 ## Do you have any other commitments during the GSoC period?
 
-_I will be having end semester examinations for a week or two during the community bonding period. But I commit to cover up the back log that might happen during this time by working for longer hours after my examination is over. Rest of the time I will be fully committed._
+_I will be having end semester examinations for a week or two sometime in June/July as the college had to be closed due to CoronaVirus circumstances. But I commit to cover up the back log that might happen during this time by working for longer hours after my examination is over. Rest of the time I will be fully committed._
