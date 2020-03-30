@@ -16,53 +16,72 @@ I will incorporate interfacing with the board, some popular sensors and actuator
 
 ### **Community Bonding Period: Getting Started with Portenta and the Community**
 
+##### _I am planning to spend the 4-week community bonding period as follows:-_
+
 * _Getting started with Arduino Portenta Board and begin with exploring different features of the board. Get familiar with the new board and the community that I will be working with the whole summer._
-* _Installing MicroPython on the board and setting up the MicroPython REPL prompt for several examples and projects to be developed further._
+* _Installing MicroPython on the board and setting up the MicroPython REPL prompt for several examples and projects to be developed in the subsequent weeks._
+* _I will first of all try to find analogy between my NodeMCU MicroPython experience and the new Portenta MicroPython by trying to build an RGB LED lamp on Portenta. (I have already built it using esp8266.)_
+* _Planning to start with the Phase 1 work early to finish my goals before the deadline and if I am able to finish early, I will use this time in developing a PID-based self-balancing bot using Portenta and MPU6050 provided the time permits me to do so._
 
 
 ### **Phase 1: Basic Sensors and Actuators**
 
-* _Various interactive projects using LEDs_
+* _Various interactive projects using LEDs (**Jun 1-7**)_
   * Blinking/Fading an LED
   * Working with an RGB LED
   * 5x4 LED matrix
   * 2x2x2 LED cube
-* _Working with ADC to read various analog sensors_
+* _Working with ADC to read various analog sensors (**Jun 8-14**)_
   * Potentiometer
   * Light Dependent Resistor
   * Thermistor
   * Analog Sound Sensor
-* _Working with some digital sensors_
+* _Working with some digital sensors (**Jun 15-21**)_
   * Push Button, Debouncing and Interrupts
   * IR Motion Sensor, IR Proximity Sensor
   * HC SR04 Ultrasonic Distance Sensor
   * Capacitive Touch Sensor
-* _Working with the following 4 kinds of motors_
+* _Working with the following 4 kinds of motors (**Jun 22-28**)_
   * Servo Motor PWM control.
   * DC motor via L293D h-bridge motor driver IC with PWM based speed control.
   * Stepper motor via ULN2003 stepper motor driver.
   * BLDC motor PWM speed control via an ESC.
-* _Building a Line Follower Robot using IR proximity sensors and DC motors._
-* _Building an Obstacle Avoiding Robot using IR proximity sensors/Ultrasonic distance sensor+Servo motor and DC motors._
-
+  
 
 ### **Phase 2: Three Important Communication Protocols - UART,I2C,SPI**
 
-* _Interfacing with the HC05 Bluetooth module through the UART communication protocol._
-* _Building a Bluetooth Based Remote Control Robot using HC05 and DC motors._
-* _Interfacing with Accelerometer+Gyroscope sensor MPU6050 through the I2C communication protocol._
-* _Building an AirMouse using MPU6050 and Bluetooth._
-* _Interfacing with MFRC522 RFID reader through the SPI communication protocol._
-* _Building a simple RFID authenticator using the MFRC522 RFID reader._
-* Also Exploring Some Additional Features
-  * _Working with the Portenta built-in Bluetooth peripheral module._
-  * _Working with the Portenta built-in WiFi peripheral module._
+* _Observe The Performance of some simple ML algorithms on Portenta.(**Jun 29 - Jul 3**)_
+  * _Implement a Simple Linear Regression on the Portenta board._
+  * _Implement a Naive Bayes Classifier on the Portenta board._
+
+* _Building a Line Follower Robot using IR proximity sensors and DC motors. (**Jul 4-6**)_
+
+* _Building an Obstacle Avoiding Robot using IR proximity sensors/Ultrasonic distance sensor+Servo motor and DC motors. (**Jul 7-9**)_
+
+* _Implementing a Proportional-Integral-Derivative Algorithm on the Portenta._ (**Jul 10-12**)
+  * A simple example for demonstration and explaination purpose only.
+
+* _Interfacing with the HC05 Bluetooth module and working with the UART communication protocols.  (**Jul 13-14**)_
+* _Building a Bluetooth Based Remote Control Robot using HC05 and DC motors. (**Jun 15-19**)_
+
+* _Interfacing with Accelerometer+Gyroscope sensor MPU6050 and working with the I2C communication protocols. (**Jul 20-21**)_
+* _Building an AirMouse using MPU6050 and Bluetooth. (**Jul 22-26**)_
+
+* _Interfacing with MFRC522 RFID reader and working with the SPI communication protocols. (**Aug 1-3**)_
+* _Building a simple RFID authenticator using the MFRC522 RFID reader. (**Aug 5-8**)_
+
+* _Also Exploring The Exceptional and Additional Features of the Board (**Aug 9-15**)_
+  * Working with the Portenta built-in Bluetooth peripheral module.
+  * Working with the Portenta built-in WiFi peripheral module.
+
+* _Implement Gradient Descent algorithm. (**Aug 16-23**)_
+  * _Implement Logistic Regression using above gradient descent._
 
 
-### **Final Week: Finishing and Submission**
+### **Final Week: Finishing and Submission (Aug 24-31)**
 
-* _Implementing a Proportional-Integral-Derivative Algorithm on the Portenta._
-* _Cover up any backlog or incomplete work._
+* _Wrap up any backlog or incomplete work._
+* _Submit final evalutations of the mentor_
 * _Submit the work._
 
 
